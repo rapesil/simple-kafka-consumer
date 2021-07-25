@@ -1,7 +1,7 @@
-package com.live.kafka.consumer.consumer;
+package com.rapesil.kafka.consumer.consumer;
 
-import com.live.kafka.consumer.DTO.CarDTO;
-import com.live.kafka.consumer.utils.FileUtils;
+import com.rapesil.kafka.consumer.DTO.CarDTO;
+import com.rapesil.kafka.consumer.utils.FileUtils;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

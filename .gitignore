@@ -10,3 +10,4 @@ target/
 .DS_Store
 *.DS_Store
 consumer.iml
+src/test/resources/test.txt

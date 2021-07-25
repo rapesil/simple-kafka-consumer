@@ -1,7 +1,9 @@
-package com.live.kafka.consumer.DTO;
+package com.rapesil.kafka.consumer.DTO;
 
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
 
 @Data
 @NoArgsConstructor

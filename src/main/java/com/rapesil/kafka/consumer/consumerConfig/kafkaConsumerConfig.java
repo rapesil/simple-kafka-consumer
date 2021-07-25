@@ -1,6 +1,6 @@
-package com.live.kafka.consumer.consumerConfig;
+package com.rapesil.kafka.consumer.consumerConfig;
 
-import com.live.kafka.consumer.DTO.CarDTO;
+import com.rapesil.kafka.consumer.DTO.CarDTO;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,1 +1,0 @@
-CarDTO(id=ec4714b8-900b-4a61-b19a-a3b7c725174d, model=hb20s, color=vermelho)

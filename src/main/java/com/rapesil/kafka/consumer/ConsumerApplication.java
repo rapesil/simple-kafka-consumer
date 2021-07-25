@@ -1,8 +1,7 @@
-package com.live.kafka.consumer;
+package com.rapesil.kafka.consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.kafka.annotation.EnableKafka;
 
 @SpringBootApplication
 public class ConsumerApplication {
