@@ -1,0 +1,12 @@
+.classpath
+.factorypath
+.idea/
+.project
+.settings/
+mvnw
+mvnw.cmd
+producer.iml
+target/
+.DS_Store
+*.DS_Store
+consumer.iml
