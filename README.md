@@ -5,7 +5,7 @@ I've created this project to train how to test kafka applications with SpringBoo
 ## Prerequisites
 
 * Java 11
-* Maven 3.6+
+* Maven 3.6
 
 ## Running manually
 
